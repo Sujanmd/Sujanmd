@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 💬 Ask me about **Python, FastAPI & C**
+- 💬 Ask me about **Python, Mysql, FastAPI & C**
 
 - 📫 Reach me at **smdsujanmd@gmail.com**
 
