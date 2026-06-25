@@ -1,7 +1,6 @@
 <h1 align="center">Hey 👋, I'm Sujan MD</h1>
 <h3 align="center">A passionate Python developer, with strong interest in AI and Machine Learning</h3>
 
-- 🌱 I’m currently learning **Django**
 
 - 💬 Ask me about **Python, Mysql, FastAPI & C**
 
