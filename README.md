@@ -1,6 +1,8 @@
 <h1 align="center">Hey 👋, I'm Sujan MD</h1>
 <h3 align="center">A passionate Python developer, with strong interest in AI and Machine Learning</h3>
-
+<p align="center">
+  <img src="assets/portrait.svg" width="450" alt="Typographic portrait">
+</p>
 
 - 💬 Ask me about **Python, Mysql, FastAPI & C**
 
